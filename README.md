@@ -31,12 +31,11 @@ Final path
 11.	Input: testpath.txt and validdu.txt. 
 a.	Valid du contain 215 47 219 184, 215 47 219 187 these kind of DU pair/path. Which testpath have covered each du pair consider as final test path.
 
-=====================================================================================================================================
 Final output: 
 Number of path initially generated = ...
 Number of path generated after DU coverage = ...
 Path reduction rate= ...%
-=====================================================================================================================================
+
 Input files:
 Index.xml, test_8c.xml, validdu.txt
-=====================================================================================================================================
+
